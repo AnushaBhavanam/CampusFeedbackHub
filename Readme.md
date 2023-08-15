@@ -1,9 +1,4 @@
-#SWE642 ASSIGNMENT_3 
-
-#ANUSHA BHAVANAM
-G01348764
-
-# Student Survey Application
+# Campus Feedback Application
 
 The Student Survey Application is a full-stack web application that allows students to fill out a survey form to provide feedback about their campus visit. It also provides a feature to view all surveys recorded to date. The application is built using Angular for the frontend and Spring Boot for the backend, with data storage handled through JPA.
 
